@@ -1,0 +1,32 @@
+html{
+    margin: 5px;
+}
+.ui-block-a, .ui-block-b, .ui-block-c {
+
+}
+#gameboard{
+
+}
+/*
+a.ui-btn{
+
+
+}
+table, th, td{
+
+
+}
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8,#btn9{
+
+
+}
+#btn2,#btn5,#btn8{
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+
+}
+#btn4,#btn5,#btn6{
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+
+}*
